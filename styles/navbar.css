@@ -1,0 +1,29 @@
+.brand-icon {
+    padding-top: 24px;
+    margin-right: 10px;
+}
+
+li {
+    margin-right: 40px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.request-a-quote-div {
+    padding-top: 24px;
+}
+
+.border  {
+    border-radius: 14px;
+    border: 2px solid #191a23 !important;
+    padding: 20px 35px; 
+}
+
+ul {
+    padding-top: 24px;
+}
+
+.btn-request {
+    font-family: 'Space Grotesk', sans-serif;
+    text-decoration: none;
+    color: #000000a6;
+}
